@@ -19,7 +19,7 @@ Excel: For Data preprocessing
 
 ## Installation
 Clone the repository:
-git clone https://github.com/yourusername/netflix-data-analysis-powerbi.git
+(https://github.com/LesegotheEruditeAnalyst/Netflix-KPI-s-PowerBI/blob/a2de1c2c3bc6c9be2b233feb5bfc80fb345f652a/Netflix%20project.pbix)
 
 ## Usage
 Explore Dashboards:
